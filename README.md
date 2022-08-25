@@ -1,7 +1,7 @@
 <h1 align=center>Hello, I’m Vinicius Barbosa 👋</h1> 
 
-    Am i technologie studant as Information Systems, am i 23 year old, marred and i love to learn new techinologies and new challengs.
-    I serach to opportunity to start work as a developer an i am study for this opportunity came to me !!
+    I am studant as Information Systems, am i 23 year old, marred and i love to learn new techinologies and new challengs.
+    Looking for an opportunity to work as a developer
 
 - 🔭 I’m currently working on Unicred as an IT assistant
 - 🌱 I’m currently learning React JS and React-Native
