@@ -12,9 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfsbarbosa&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
-
+# Connect with me:
 <div>
-
   <a href="https://www.linkedin.com/in/vinicius-barbosa-8334a11b4/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-128/linkedin-160-461814.png" alt="LinkedIn" height="40"></a>&nbsp;
   <a href="https://www.instagram.com/vinifsbarbosa/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" height="40"></a>
 </div>
